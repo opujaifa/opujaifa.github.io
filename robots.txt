@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://opujaifa.github.io/AVL/sitemap_index.txt
+Sitemap: https://opujaifa.github.io/Tqe/sitemap_index.txt
+Sitemap: https://opujaifa.github.io/VIT/sitemap_index.txt
+Sitemap: https://opujaifa.github.io/sfP/sitemap_index.txt
